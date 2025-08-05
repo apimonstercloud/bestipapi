@@ -11,7 +11,7 @@ npm install bestipapi
 ## Getting Started
 
 1. **Get your API key**: Create a free account at [bestipapi.com/register](https://bestipapi.com/register) to get your API key
-2. **Install the package**: `npm install bestipapi`
+2. **Install the package**: `npm install ip-api`
 3. **Start using**: Configure your API key and make calls
 
 ## Quick Start
